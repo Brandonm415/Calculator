@@ -1,0 +1,28 @@
+input[type="button"] {
+  width: 100%;
+  background-color:gray;
+  border: solid black 2px;
+}
+
+input[type="text"] {
+  border: solid black 2px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title {
+  text-align: center;
+}
+
+table {
+  background-color: gray;
+  border: solid black 2px;
+}
+
+body {
+  background-color: lightblue;
+}
